@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*JjDHDlRHpzOfb-xOjhxT9Q.png" height="30" alt="java logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*JjDHDlRHpzOfb-xOjhxT9Q.png" height="36" alt="java logo"  />
   <img width="12" />
 
 
