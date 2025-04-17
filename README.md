@@ -28,8 +28,8 @@
 ###
 
 <div align="center">
-   <a href="https://static.vecteezy.com/system/resources/thumbnails/014/440/980/small_2x/email-message-icon-design-in-blue-circle-png.png" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+   <a href="https://www.linkedin.com/in/luiz-augusto-pereira-13b457340/" target="_blank">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/014/440/980/small_2x/email-message-icon-design-in-blue-circle-png.png" height="35" alt="gmail logo"  />
    </a>
   <a href="https://www.linkedin.com/in/luiz-augusto-pereira-13b457340" target="_blank">
   <img src="https://www.ufpb.br/cerimonial/icons/redes-sociais/linkedin.png/@@images/image.png" height="35" alt="linkedin logo"  />
