@@ -31,14 +31,6 @@
 
 ###
 
-<div align="center">
-   <a href="https://www.linkedin.com/in/luiz-augusto-pereira-13b457340/" target="_blank">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/014/440/980/small_2x/email-message-icon-design-in-blue-circle-png.png" height="35" alt="gmail logo"  />
-   </a>
-  <a href="https://www.linkedin.com/in/luiz-augusto-pereira-13b457340" target="_blank">
-  <img src="https://www.ufpb.br/cerimonial/icons/redes-sociais/linkedin.png/@@images/image.png" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
