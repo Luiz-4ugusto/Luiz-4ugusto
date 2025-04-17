@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -28,14 +28,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/luiz.augustopereira/" target=”_blank”>
-  <img src="https://www.ufpb.br/cerimonial/icons/redes-sociais/linkedin.png/@@images/image.png" height="35" alt="instagram logo"  />
-    </a>
-   <a href="https://mail.google.com/mail/?view=cm&to=Luiz4ugustoPereira@gmail.com" target="_blank">
+   <a href="https://static.vecteezy.com/system/resources/thumbnails/014/440/980/small_2x/email-message-icon-design-in-blue-circle-png.png" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
    </a>
   <a href="https://www.linkedin.com/in/luiz-augusto-pereira-13b457340" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://www.ufpb.br/cerimonial/icons/redes-sociais/linkedin.png/@@images/image.png" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
