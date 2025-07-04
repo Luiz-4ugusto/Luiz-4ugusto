@@ -19,4 +19,3 @@
 
 ###
 
-pq as img est
